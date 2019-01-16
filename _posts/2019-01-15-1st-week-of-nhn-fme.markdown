@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "NHN 신입 기술교육 1주차"
+title:  "NHN 기술교육 1주차"
 date:   2019-01-15
-description: NHN 신입 기술교육 1주차 - 프로젝트 기획
+description: 프로젝트 기획
 ---
 
 ### 주요 Task
