@@ -7,7 +7,12 @@ title: Lim Hyunwoo
 	<h1 class="pageTitle">Lim Hyunwoo</h1>
 	<h2>About</h2>
 	<ul>
-		<li>NHN Entertainment (2019.01.02~)</li>
-  		<li></li>
+		<li>NHN Entertainment 입사 (2019.01.02~)</li>
+  		<li>한양대학교 일반대학원 입학 (2017.03.02)</li>
+		<li>한양대학교 ERICA 캠퍼스 졸업 (2017.02.)</li>
+		<li>육군 20사단 (2013.10.01 ~ 2015.06.30)</li>
+		<li>한양대학교 ERICA 캠퍼스 입학 (2011.03.02)</li>
+		<li>언남고등학교 졸업 (2010.02.)</li>
+		<li>서울 출생 (1991.02.12)</li>
   	</ul>
 </div>
