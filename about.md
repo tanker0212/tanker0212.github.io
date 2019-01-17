@@ -9,7 +9,7 @@ title: Lim Hyunwoo
 	<ul>
 		<li>임 현 우</li>
   		<li>1991.2.12</li>
-		<li>현재 NHN Entertainment 신입사원</li>
+		<li>현재 [NHN Entertainment](https://nhnent.com) 신입사원</li>
 		<li>작성중...</li>
   	</ul>
 	<h2>History</h2>
