@@ -2,7 +2,7 @@
 layout: post
 title:  "NHN 기술교육 1주차"
 date:   2019-01-15
-description: Sprint: 1 (1.8 ~ 1.14)
+description: "Sprint: 1 (1.8 ~ 1.14)"
 ---
 
 ### 베이스캠프
