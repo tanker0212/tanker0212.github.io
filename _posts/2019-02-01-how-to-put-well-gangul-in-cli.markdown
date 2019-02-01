@@ -54,6 +54,9 @@ for (int i = 0; i < string.length(); i++) {
 String = formatType = "| %-" + (stringSpaceInShell-numHangul) + "s ";
 ```
 
+#### 실제 적용 예
+![](https://raw.githubusercontent.com/tanker0212/tanker0212.github.io/master/assets/img/shellprintlist.PNG)
+
 ### 남은 생각
 * 문자열을 하나씩 for 문으로 돌려보는 부분 비효율적으로 보임
 * 칸 수 계산 부분 더 똑똑하게 할 수 있을 것 같음
