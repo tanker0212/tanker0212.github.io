@@ -42,7 +42,7 @@ for (int i = 0; i < string.length(); i++) {
         string = string.substring(0,i);
         break;
     }
-    //한글의 경우문자열이 차지할 칸
+    //한글일때
     if(Character.getType(mailTitle.charAt(i)) == 5) {
         stringLengthInShell += 2;
         numHangul++;
@@ -56,3 +56,4 @@ String = formatType = "| %-" + (stringSpaceInShell-numHangul) + "s ";
 
 ### 남은 생각
 * 문자열을 하나씩 for 문으로 돌려보는 부분 비효율적으로 보임
+* 칸 수 계산 부분 더 똑똑하게 할 수 있을 것 같음
