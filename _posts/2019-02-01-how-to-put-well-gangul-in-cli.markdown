@@ -2,7 +2,7 @@
 layout: post
 title:  "Shell환경에서 한글을 줄맞춰 찍어보자"
 date:   2019-02-01
-description: "코드는 개판..."
+description: "쉬움 "
 ---
 
 > 구현한 메일 서비스를 CLI로 가즈아~
