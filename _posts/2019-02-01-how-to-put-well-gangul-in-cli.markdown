@@ -37,7 +37,7 @@ int stringLengthInShell = 0;
 int numHangul = 0;
 
 for (int i = 0; i < string.length(); i++) {
-    if (stringLengthInShell > 39){
+    if (stringLengthInShell > stringSpaceInShell-1){
         //공간 넘어가면 문자열 자름
         string = string.substring(0,i);
         break;
